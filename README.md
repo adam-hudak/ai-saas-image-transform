@@ -20,7 +20,7 @@
 
 ## <a name="demo">🚨 Demo</a>
 
-<a href="#" target="_blank"><b>Demo</b></a>.
+<a href="#" target="_blank"><b>Demo</b></a>
 
 ## <a name="introduction">🤖 Introduction</a>
 
