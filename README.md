@@ -12,15 +12,16 @@
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🚨 [Demo](#demo)
+<!-- 1. 🚨 [Demo](#demo) -->
+
 1. 🤖 [Introduction](#introduction)
-1. ⚙️ [Tech Stack](#tech-stack)
-1. 🔋 [Features](#features)
-1. 🤸 [Quick Start](#quick-start)
+2. ⚙️ [Tech Stack](#tech-stack)
+3. 🔋 [Features](#features)
+4. 🤸 [Quick Start](#quick-start)
 
-## <a name="demo">🚨 Demo</a>
+<!-- ## <a name="demo">🚨 Demo</a>
 
-<a href="#" target="_blank"><b>Demo</b></a>
+<a href="#" target="_blank"><b>Demo</b></a> -->
 
 ## <a name="introduction">🤖 Introduction</a>
 
