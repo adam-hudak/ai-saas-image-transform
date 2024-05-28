@@ -1,6 +1,6 @@
 import mongoose, { Mongoose } from "mongoose";
 
-const MONGODB_URL = process.env.MONGO_URL;
+const MONGODB_URL = process.env.MONGODB_URL;
 
 interface MongooseConnection {
   connection: Mongoose | null;
@@ -25,7 +25,7 @@ export const connectToDatabase = async () => {
   cached.promis =
     cached.promis ||
     mongoose.connect(MONGODB_URL, {
-      dbName: "Cluster0",
+      dbName: "ai-saas-image-transform",
       bufferCommands: false,
     });
 
