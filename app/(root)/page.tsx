@@ -3,7 +3,7 @@ import { UserButton } from "@clerk/nextjs";
 const Home = () => {
   return (
     <div>
-      <p>Home</p>
+      <h2 className="h2-bold text-dark-600">Home</h2>
     </div>
   );
 };
